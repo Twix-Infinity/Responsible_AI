@@ -1,0 +1,10 @@
+What’s happening:
+    A system flags students as "cheating" based on eye movement — but it often flags neurodivergent students.
+
+What’s problematic:
+    Neurodivergent students are at a disadvantage/ face discrimination because the AI often flags neurodivergent students compared to normal students.
+    The parents of these children will not be happy that their children are being flagged out just because they are different.
+    This isn't a good image for the school.
+
+One improvement idea:
+    The names of all the neurodivergent students should be noted down and the AI should evaluate them more liniently.

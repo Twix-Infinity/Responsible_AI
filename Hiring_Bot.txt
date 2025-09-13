@@ -1,0 +1,11 @@
+What’s happening:
+    A company uses an AI to screen job applicants.
+    It tends to reject more female applicants with career gaps
+
+What’s problematic:
+    This bot is gender biased which means female aplicants are disadvantaged/ facing discrimination.
+    This isn't a good image for the company.
+    The company will be male dominated.
+
+One improvement idea:
+    Prompt the AI of the Hiring bot to accept an equal ratio of men to women.
